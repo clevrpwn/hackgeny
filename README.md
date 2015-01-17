@@ -15,4 +15,4 @@ Workflow
 		* website has a reset data button
 		* download speech
 
-Board - Raspberry Pi, Intel Edison
+Board - Arduino
